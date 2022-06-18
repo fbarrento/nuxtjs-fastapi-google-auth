@@ -1,3 +1,11 @@
 <template>
-    <h1>Welcome to Nuxtjs with FastAPI as backend with Google Authentication</h1>
+  <Tutorial/>
 </template>
+
+<script lang="ts">
+import Vue from 'vue'
+
+export default Vue.extend({
+  name: 'IndexPage'
+})
+</script>

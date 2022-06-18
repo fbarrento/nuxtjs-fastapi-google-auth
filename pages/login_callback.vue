@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtPage />
+    <h1>Hello from Google CallBack</h1>
   </div>
 </template>
